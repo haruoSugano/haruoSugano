@@ -1,5 +1,4 @@
-- 👋 Olá, eu sou Helio Haruo Takamori Sugano
-
+- Helio Haruo Takamori Sugano
 
 - Backend Developer
 - PHP, JAVA, JAVASCRIPT, MYSQL, POSTGRESQL, MONGODB, LINUX, GIT, DOCKER.
