@@ -1,9 +1,9 @@
 - 👋 Olá, eu sou Helio Haruo Takamori Sugano
 
 
-- 🖥️ Hoje trabalho com back-end(PHP);
-- 🌱 Estudando HTML, CSS, Javascript, Typescript, NodeJS e ReactJS;
-- 📫 Contate-me no email: haruosugano@icloud.com ou helioharuots@gmail.com.
+- Backend Developer
+- PHP, JAVA, JAVASCRIPT, MYSQL, POSTGRESQL, MONGODB, LINUX, GIT, DOCKER.
+- Contact me at: helioharuots@gmail.com
 
 <div align="center">
   <a href="https://github.com/haruoSugano">
@@ -13,10 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Haruo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Haruo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Haruo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Haruo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Haruo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Haruo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Haruo-Nodejs" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img align="center" alt="Haruo-Express" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
   <img align="center" alt="Haruo-PHP" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png">
