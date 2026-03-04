@@ -1,4 +1,4 @@
-- Helio Haruo Takamori Sugano
+- Helio Haruo
 
 - Backend Developer
 - JAVA/PHP
